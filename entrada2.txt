@@ -1,0 +1,11 @@
+obstaculos fijos
+(2,1)
+(2,2)
+obstaculos aleatorios
+10
+posicion inicial
+(1,1)
+objetivo
+(10,10)
+dimension
+10
